@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning model sai kumar sai model buggaram</h1>
 <h2>Apasyam kirikiri bugga</h2>
-<img src="https://unsplash.com/photos/8Myh76_3M2U" alt="Flowers in Chania" width="460" height="345">
+
     <p>Please fill in this form model model sai model buggaram.</p>
     <hr>
      
