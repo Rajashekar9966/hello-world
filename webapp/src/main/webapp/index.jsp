@@ -2,7 +2,8 @@
   <div class="container">
     <h1>New user Register for DevOps Learning model sai kumar sai model buggaram</h1>
 <h2>Apasyam kirikiri buggaloda</h2>
-
+<h1>Hello World</h1>
+<img src="https://unsplash.com/photos/uyyRJA2an4o" alt="hlo img failed to display">
     <p>Please fill in this form model model sai model buggaram.</p>
     <hr>
      
