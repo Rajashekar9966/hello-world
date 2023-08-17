@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>imgae upload and display</title>
+    <title>Hey.. From Shekar</title>
   </head>
   <body>
       <input type="file" accept="image/*" onchange="loadFile(event)">
