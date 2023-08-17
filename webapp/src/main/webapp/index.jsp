@@ -17,7 +17,7 @@
 
 <a href="https://instagram.com/abbas_mohd_2426?igshid=MzRlODBiNWFlZA==">click here to contact me for medical emergency</a>
 
-<img src="https://www.istockphoto.com/photo/india-economy-improves-and-returns-to-normal-after-crisis-gm1252243136-365474514?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Findian-army-quotes&utm_term=indian%20army%20quotes%3A%3A%3A" alt="Girl in a jacket" width="500" height="600">
-
+<!-- <img src="https://www.istockphoto.com/photo/india-economy-improves-and-returns-to-normal-after-crisis-gm1252243136-365474514?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Findian-army-quotes&utm_term=indian%20army%20quotes%3A%3A%3A" alt="Girl in a jacket" width="500" height="600">
+-->
 </body>
 </html>
