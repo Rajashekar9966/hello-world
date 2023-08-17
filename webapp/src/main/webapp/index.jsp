@@ -5,7 +5,7 @@
   </head>
   <body>
       <input type="file" accept="image/*" onchange="loadFile(event)">
-      <p><img id="output" width="2000"/></p>
+      <p><img id="output" width="600"/></p>
       <script>
           var loadFile = function(event) {
               var image = document.getElementById('output');
