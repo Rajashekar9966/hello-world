@@ -14,8 +14,7 @@
       </script>
  <h1>Image Display Example</h1>
     <img src="https://imgs.search.brave.com/QqvSzpal_xs2wS-tUxodTown05fFuOVkxleVgRHIDJk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZnJlZWltYWdl/cy5jb20vaW1hZ2Vz/L2hvbWUvZmlsZXR5/cGVzL3Bob3RvLndl/YnA" alt="Image Description" width="400" height="300">
-<br><br><br><br><br><br><br>  
-<img src="/home/ec2-user/aadar.jpg" alt="Image Description" width="400" height="300">
+
 
   </body>
 </html>
