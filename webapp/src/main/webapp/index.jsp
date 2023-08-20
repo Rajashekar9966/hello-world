@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Learming Devops....</title>
+    <title>Login Page</title>
 </head>
 <body>
-    <h1>This is Page 1</h1>
-    <p>Welcome to Page 1. <a href="second.html">Click here</a> to go to Page 2.</p>
+    <h1>Login</h1>
+    <form action="/login" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br>
+
+        <button type="submit">Login</button>
+    </form>
 </body>
 </html>
