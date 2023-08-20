@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login Page</title>
+    <title>hey sheki Page</title>
 </head>
 <body>
     <h1>Login</h1>
